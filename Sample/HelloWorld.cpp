@@ -6,7 +6,7 @@ namespace Sample {
 	void ExecuteSample()
 	{
 		
-		//system("pause");
+		system("pause");
 	}
 
 }
