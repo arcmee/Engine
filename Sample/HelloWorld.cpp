@@ -7,6 +7,10 @@ namespace Sample {
 	{
 		
 		system("pause");
+		//sdfsfddf
+		//sdfsdfsdf
+
+		//sdfsdf
 	}
 
 }
